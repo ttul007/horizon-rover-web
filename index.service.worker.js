@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794363798|3965996';
+const CACHE_VERSION = '1794373593|4173265';
 /** @type {string} */
 const CACHE_PREFIX = 'Horizon Rover-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
